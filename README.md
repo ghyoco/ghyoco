@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋, I'm Giovanni August
 
-<!--
-**ghyoco/ghyoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student @ Bina Nusantara University**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🎓 CS undergrad at BINUS University (GPA: 3.81)
+- 🔬 Interested in Computer Vision, Machine Learning & Deep Learning
+- 🏅 Microsoft Azure AI Fundamentals (AI-900) certified
+- 🌏 Based in Indonesia
+
+## Tech Stack
+
+**Languages:** Python, TypeScript
+
+**AI / ML:** TensorFlow, scikit-learn, OpenCV, NumPy, Pandas
+
+**Tools:** FastAPI, Docker, Git, Hugging Face
+
+## Projects
+
+- [**PathFinder**](https://github.com/ghyoco/PathFinder) — Real-time lane detection using computer vision, deployed with FastAPI & Docker
+- [**Smart Building Energy Forecasting**](https://github.com/ghyoco/smart-building-energy-forecasting) — LSTM vs XGBoost for short-term energy load prediction (R² = 0.9818)
+- [**Portfolio**](https://github.com/ghyoco/portfolio) — Personal portfolio website built with TypeScript
+
+## Connect
+
+- 📧 [giovanniaugustw@gmail.com](mailto:giovanniaugustw@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/giovanni-august)
